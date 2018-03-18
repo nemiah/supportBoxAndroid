@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

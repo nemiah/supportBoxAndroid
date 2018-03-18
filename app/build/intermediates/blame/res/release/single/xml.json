@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/res/merged/release/xml/pref_misc.xml",
+        "source": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/xml/pref_misc.xml"
+    },
+    {
+        "merged": "/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/res/merged/release/xml/pref_server.xml",
+        "source": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/xml/pref_server.xml"
+    },
+    {
+        "merged": "/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/res/merged/release/xml/pref_headers.xml",
+        "source": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/xml/pref_headers.xml"
+    }
+]

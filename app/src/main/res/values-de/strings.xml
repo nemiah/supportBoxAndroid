@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">supportBox</string>
+
+    <string-array name="Options">
+        <item>Seite aktualisieren</item>
+        <item>URL ändern</item>
+        <item>Ausrichtung</item>
+    </string-array>
+    
+    <string-array name="Orientations">
+        <item>Landschaft</item>
+        <item>Landschaft kopfüber</item>
+        <item>Porträt</item>
+        <item>Porträt kopfüber</item>
+    </string-array>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="error">Fehler</string>
+
+    <string name="pref_header_general">Server</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="pref_default_server_cloud">Furtmeier</string>
+    <string name="pref_default_server_kasse">1</string>
+    <string name="pref_default_server_url">https://cloud9.furtmeier.it</string>
+    <string name="pref_title_server_cloud">Cloud-Zugang</string>
+    <string name="pref_title_server_kasse">Kasse</string>
+    <string name="pref_title_server_url">Server-Adresse</string>
+    <string name="title_err_code">Fehlernummer</string>
+    <string name="title_err_method">Methode</string>
+    <string name="title_msg_description">Beschreibung</string>
+    <string name="title_msg_result">Ergebnis</string>
+    <string name="pref_header_misc">Sonstiges</string>
+    <string name="reload">Aktualisieren</string>
+</resources>
