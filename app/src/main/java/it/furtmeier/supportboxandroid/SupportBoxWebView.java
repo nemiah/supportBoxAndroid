@@ -20,7 +20,7 @@ public class SupportBoxWebView extends WebView {
 		final SupportBoxWebView view = this;
 		final ActivityMain activity = multiPOSAndroid;
 		
-		setKeepScreenOn(true);
+		//setKeepScreenOn(true);
 
 		WebSettings webSettings = getSettings();
 		webSettings.setJavaScriptEnabled(true);

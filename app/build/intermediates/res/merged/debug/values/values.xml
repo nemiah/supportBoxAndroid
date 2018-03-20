@@ -454,9 +454,9 @@
     <string name="cancel">Cancel</string>
     <string name="error">Error</string>
     <string name="ok">OK</string>
-    <string name="pref_default_server_cloud">Furtmeier</string>
+    <string name="pref_default_server_cloud">demo</string>
     <string name="pref_default_server_kasse">1</string>
-    <string name="pref_default_server_url">https://cloud9.furtmeier.it</string>
+    <string name="pref_default_server_url">https://cloud.furtmeier.it</string>
     <string name="pref_header_general">Server</string>
     <string name="pref_header_misc">Miscellaneous</string>
     <string name="pref_title_server_cloud">Cloud-Account</string>

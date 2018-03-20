@@ -309,8 +309,8 @@
                     "startLine": 36,
                     "startColumn": 4,
                     "startOffset": 2526,
-                    "endColumn": 63,
-                    "endOffset": 2585
+                    "endColumn": 58,
+                    "endOffset": 2580
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml",
@@ -318,8 +318,8 @@
                         "startLine": 23,
                         "startColumn": 4,
                         "startOffset": 711,
-                        "endColumn": 63,
-                        "endOffset": 770
+                        "endColumn": 58,
+                        "endOffset": 765
                     }
                 }
             },
@@ -327,9 +327,9 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2590,
+                    "startOffset": 2585,
                     "endColumn": 55,
-                    "endOffset": 2641
+                    "endOffset": 2636
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"
@@ -339,18 +339,18 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2646,
-                    "endColumn": 79,
-                    "endOffset": 2721
+                    "startOffset": 2641,
+                    "endColumn": 78,
+                    "endOffset": 2715
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 831,
-                        "endColumn": 79,
-                        "endOffset": 906
+                        "startOffset": 826,
+                        "endColumn": 78,
+                        "endOffset": 900
                     }
                 }
             },
@@ -358,9 +358,9 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2726,
+                    "startOffset": 2720,
                     "endColumn": 54,
-                    "endOffset": 2776
+                    "endOffset": 2770
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"
@@ -370,9 +370,9 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2781,
+                    "startOffset": 2775,
                     "endColumn": 54,
-                    "endOffset": 2831
+                    "endOffset": 2825
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"
@@ -382,9 +382,9 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2836,
+                    "startOffset": 2830,
                     "endColumn": 64,
-                    "endOffset": 2896
+                    "endOffset": 2890
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"
@@ -394,9 +394,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2901,
+                    "startOffset": 2895,
                     "endColumn": 57,
-                    "endOffset": 2954
+                    "endOffset": 2948
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"
@@ -406,9 +406,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2959,
+                    "startOffset": 2953,
                     "endColumn": 64,
-                    "endOffset": 3019
+                    "endOffset": 3013
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"
@@ -418,9 +418,9 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3024,
+                    "startOffset": 3018,
                     "endColumn": 48,
-                    "endOffset": 3068
+                    "endOffset": 3062
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"
@@ -430,9 +430,9 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 3073,
+                    "startOffset": 3067,
                     "endColumn": 81,
-                    "endOffset": 3150
+                    "endOffset": 3144
                 },
                 "from": {
                     "file": "/home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/res/values-de/values-de.xml"
@@ -442,9 +442,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3155,
+                    "startOffset": 3149,
                     "endColumn": 100,
-                    "endOffset": 3251
+                    "endOffset": 3245
                 },
                 "from": {
                     "file": "/home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/res/values-de/values-de.xml"
@@ -454,9 +454,9 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 3256,
+                    "startOffset": 3250,
                     "endColumn": 65,
-                    "endOffset": 3317
+                    "endOffset": 3311
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"
@@ -466,9 +466,9 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3322,
+                    "startOffset": 3316,
                     "endColumn": 55,
-                    "endOffset": 3373
+                    "endOffset": 3367
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"
@@ -478,9 +478,9 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 3378,
+                    "startOffset": 3372,
                     "endColumn": 52,
-                    "endOffset": 3426
+                    "endOffset": 3420
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"
@@ -490,9 +490,9 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3431,
+                    "startOffset": 3425,
                     "endColumn": 62,
-                    "endOffset": 3489
+                    "endOffset": 3483
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"
@@ -502,9 +502,9 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3494,
+                    "startOffset": 3488,
                     "endColumn": 53,
-                    "endOffset": 3543
+                    "endOffset": 3537
                 },
                 "from": {
                     "file": "/home/nemiah/StudioProjects/supportBoxAndroid/app/src/main/res/values-de/strings.xml"

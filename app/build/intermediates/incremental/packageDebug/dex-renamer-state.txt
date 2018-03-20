@@ -1,7 +1,4 @@
-#Sun Mar 18 17:59:06 CET 2018
-base.0=/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7f017f06abeb2c19b933531df3bee456bc034d0e
-renamed.1=classes2.dex
+#Tue Mar 20 11:35:56 CET 2018
+base.0=/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_59b5b2f83c7411395c139ba38e6598bfb8c5d6d3/classes.dex
-base.1=/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_59b5b2f83c7411395c139ba38e6598bfb8c5d6d3
-file.0=/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7f017f06abeb2c19b933531df3bee456bc034d0e/classes.dex
+file.0=/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

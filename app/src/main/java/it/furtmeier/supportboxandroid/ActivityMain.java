@@ -22,7 +22,6 @@ public class ActivityMain extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
-		//Log.d("multiPOS",  "I'm here!");
 
 		super.onCreate(savedInstanceState);
 		running = true;
@@ -46,7 +45,7 @@ public class ActivityMain extends Activity {
 	public void refreshWebView() {
 		SharedPreferences sharedPrefs = PreferenceManager.getDefaultSharedPreferences(this);
 		String url = sharedPrefs.getString("server_url", getResources().getString(R.string.pref_default_server_url))+"/ubiquitous/CustomerPage/?D=supportBox/SBElectron&cloud="+sharedPrefs.getString("server_cloud", getResources().getString(R.string.pref_default_server_cloud));
-		//Log.d("multiPOS",  "Loading "+url);
+
 		webView.loadUrl(url);
 	}
 
