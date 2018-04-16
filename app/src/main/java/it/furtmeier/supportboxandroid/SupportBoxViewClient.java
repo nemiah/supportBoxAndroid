@@ -7,10 +7,10 @@ import android.webkit.WebViewClient;
 
 class SupportBoxViewClient extends WebViewClient {
 
-    @Override
+    /*@Override
     public void onReceivedSslError(WebView view, SslErrorHandler handler, SslError error) {
     	handler.proceed();
-    }
+    }*/
 
     @SuppressWarnings("deprecation")
     /*@Override
