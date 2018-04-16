@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/Programme/AndroidSDK/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_597f27a8d1de75fca0b94c45da0beebb15b73eef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/Programme/AndroidSDK/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_597f27a8d1de75fca0b94c45da0beebb15b73eef/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/.android/build-cache/49ef7e0213a55d3584cfb1e86c90314f930d6b96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/classes_eebcff24f254323eccbc255f77410173a772eb96.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/.android/build-cache/49ef7e0213a55d3584cfb1e86c90314f930d6b96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eebcff24f254323eccbc255f77410173a772eb96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670f957331a05c7b1201c21b5799b25411255e63">
+        <dex dex="/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7f017f06abeb2c19b933531df3bee456bc034d0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/.android/build-cache/bfe360743a13143eb286b4fd9d0ecfa135b86d24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/classes_ab296c460b9f01dfb5e487de9dfdc6c676947f6f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="070eabbe911ef9f0da5e0c5481042131bd6972cc">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f145d8c5c517908f2b17b0498a146d6cb491f6cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/Programme/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_dc4282076e3290922b31d97d60dc013a667866fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/.android/build-cache/d3ba5199258be45657e1b117b77192894d7c8f21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/classes_6ed803a225bdc8be09bf4d3613de3fe783086a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/.android/build-cache/3a81a6a991aaef26313d03fe3b653a661c0327b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/classes_652275c1278f115e05bb0dde49c00f2ef9bb77e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/multiPOSAndroid/app/libs/ePOS2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cdc9568f711fc5efbc8d375ea238a2375989d0d5">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/2/ePOS2_c350802a97a458f5c092d3e87baf0ceae0e037f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/.android/build-cache/060186899d83557e500241c3416f92f25d7f59a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/classes_acbce673ff4b0665bf7f1557813e90a67f0c9142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/.android/build-cache/cc981a90520ea27e7a776cdccd7fd8d3689086b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/classes_f1ddd97041c660b3f102e52aa0f0b57b18799586.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f1a8fdb755ceb06d9b5b3c15dbb7b13d3c52b72/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/.android/build-cache/ce131000283f5489761d72a5cabda6662cd547d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/classes_acb64588863a73aa393be686d65a3bbdce8adec6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/nemiah/StudioProjects/supportBoxAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_59b5b2f83c7411395c139ba38e6598bfb8c5d6d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/.android/build-cache/a894dde73ad7cb0b159dc28a02c07196f1df5fde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/classes_e5c3680cecf64b35769f7ef6674cf4ab8c089079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/StudioProjects/multiPOSAndroid/app/libs/ePOS2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cdc9568f711fc5efbc8d375ea238a2375989d0d5">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/ePOS2_c350802a97a458f5c092d3e87baf0ceae0e037f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/.android/build-cache/2fa7a9bb33c2ec27649d58b361a0534ff8d70a8c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/classes_7e2c23d37c0459a1536c75b94dc097a41cea5fc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/.android/build-cache/1b75203805311505dd79e5119df2fc8495ed6cde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/nemiah/StudioProjects/multiPOSAndroid/app/build/intermediates/pre-dexed/release/classes_22bf40923f01de5f714d310064aa4755fff84d83.jar" />
+    </item>
+
+</items>
